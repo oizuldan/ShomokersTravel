@@ -24,20 +24,20 @@ hs_err_pid*
 
 .DS_Store/
 
-front-end/railway-se/target
-/front-end/railway-se/npm
+target
+npm
 
 
 # dependencies
-front-end/railway-se/node_modules
+node_modules
 /.pnp
 .pnp.js
 
 # testing
-front-end/railway-se/coverage
+coverage
 
 # production
-front-end/railway-se/build
+build
 
 # misc
 .env.local
